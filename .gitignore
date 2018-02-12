@@ -1,0 +1,9 @@
+##ignore this file##
+/target/
+/.metadata/
+/Demo/
+/Servers/
+.classpath
+.project
+.settings
+*.class   
