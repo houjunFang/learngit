@@ -5,4 +5,8 @@ second add some info by test!
 "test commit to github.com by remote" 
 "xx.com" 
 add some info by devbranch 
+
 add info by master commit 
+
+add info second by mydev 
+
